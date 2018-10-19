@@ -1,4 +1,8 @@
 sdasdasdadagsdcfgdcgsg
 ggggg
 xxxxx
-Hello & world
+<<<<<<< HEAD
+Hello   world
+=======
+Hello	world
+>>>>>>> dev
